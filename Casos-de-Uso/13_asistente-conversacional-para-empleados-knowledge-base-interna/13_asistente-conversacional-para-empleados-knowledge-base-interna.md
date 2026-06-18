@@ -13,9 +13,7 @@
 | Campo | Detalle |
 |---|---|
 | Capacidad principal de IA | GenAI + RAG corporativo |
-| Tipo de perfil | Técnico-funcional |
 | Área de negocio | Transversal — Productividad interna |
-| Perfiles clave sugeridos | AI Engineer · Diseñador conversacional · Consultor sectorial |
 | Tiempo estimado | 20–25 horas |
 | Tipo de caso | Caso Completo |
 
