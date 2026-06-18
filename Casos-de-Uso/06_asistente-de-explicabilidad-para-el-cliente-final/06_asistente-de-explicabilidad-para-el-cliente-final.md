@@ -13,9 +13,7 @@
 | Campo | Detalle |
 |---|---|
 | Capacidad principal de IA | Explicabilidad de IA (XAI) |
-| Tipo de perfil | Técnico-funcional |
 | Área de negocio | Banca / Seguros — Experiencia + Compliance |
-| Perfiles clave sugeridos | Frontend Developer · AI Engineer · Diseñador UX |
 | Tiempo estimado | 15–20 horas |
 | Tipo de caso | Caso Completo |
 
