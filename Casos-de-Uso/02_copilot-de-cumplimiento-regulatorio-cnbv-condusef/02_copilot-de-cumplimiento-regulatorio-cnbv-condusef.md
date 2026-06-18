@@ -13,9 +13,7 @@
 | Campo | Detalle |
 |---|---|
 | Capacidad principal de IA | RAG (Retrieval-Augmented Generation) |
-| Tipo de perfil | Técnico avanzado |
 | Área de negocio | Banca — Compliance y auditoría |
-| Perfiles clave sugeridos | Agentic AI Engineer (RAG + memoria) · Especialista en regulatoria |
 | Tiempo estimado | 20–25 horas |
 | Tipo de caso | Caso Completo |
 
