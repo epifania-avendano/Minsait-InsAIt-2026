@@ -13,9 +13,7 @@
 | Campo | Detalle |
 |---|---|
 | Capacidad principal de IA | AI Observability & BI |
-| Tipo de perfil | Funcional |
 | Área de negocio | Transversal — Reporting al CDO |
-| Perfiles clave sugeridos | BI Specialist · Data Analyst · Consultor de Gobierno |
 | Tiempo estimado | 15–20 horas |
 | Tipo de caso | Caso Completo |
 
